@@ -53,3 +53,5 @@ mydb = mysql.connector.connect(
 ````
 
 If everything is ok, new data will appear in your database.
+
+Related tag for task 7: https://github.com/MishaPozdnikin/csdt-pozdnikinmv-2122/releases/tag/ShipForCarpfishing_1.2_512021513
